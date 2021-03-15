@@ -1,0 +1,6 @@
+[submodule "vue-bookshelf"]
+	path = vue-bookshelf
+	url = git@github.com:pongsakorn-maker/vue-bookshelf.git
+[submodule "go-fiber-tutorial"]
+	path = go-fiber-tutorial
+	url = git@github.com:pongsakorn-maker/go-fiber-tutorial.git
